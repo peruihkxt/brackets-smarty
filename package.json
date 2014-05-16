@@ -1,0 +1,13 @@
+{
+  "name": "JeremyLee.SmartyHighlighting",
+  "title": "Smarty Syntax Highlighting",
+  "description": "Enables the built-in Smarty syntax highlighting for the .tpl file type.",
+  "homepage": "https://github.com/JeremyLee/brackets-smarty",
+  "version": "1.0.0",
+  "author": "Jeremy Lee (https://github.com/JeremyLee)",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.38.0"
+  },
+  "keywords": ["smarty", ".tpl"]
+}
